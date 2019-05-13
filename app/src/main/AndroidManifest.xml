@@ -9,9 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".credittemplate"></activity>
-        <activity android:name=".debittemplate" />
-        <activity android:name=".accounttemplate" />
+        <activity android:name=".DebitTemplate"></activity>
         <activity android:name=".NewAccountSetup" />
         <activity android:name=".MainActivity">
             <intent-filter>
